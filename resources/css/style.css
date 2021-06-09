@@ -1,0 +1,18 @@
+* {
+    font-family: 'Verdana';
+    color: white;
+    text-align: center;
+    background-color: black;
+}
+
+/* HEADER */
+
+header {
+    font-size: 50px;
+    font-weight: normal;
+}
+
+.downloadlink {
+    color: aquamarine;
+    font-size: 16px;
+}
