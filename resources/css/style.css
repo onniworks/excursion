@@ -16,3 +16,27 @@ header {
     color: aquamarine;
     font-size: 16px;
 }
+
+/* MAIN */
+
+h2 {
+    font-weight: 300;
+    font-size: 42px;
+}
+
+.midtextsec p {
+    color: gray;
+    font-size: 21px;
+}
+
+img {
+    padding: 15px;
+}
+
+/* FOOTER */
+
+footer p {
+    text-align: right;
+    color: gray;
+}
+
